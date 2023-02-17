@@ -10,7 +10,7 @@ env:
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 0134593a-d16d-4c4a-99be-fdd5176aaa96
   WEBAPP-NAME: az400-webapp-gb05
-
+ 
 
 jobs:
   #Build, test and publish .net web project in repository
